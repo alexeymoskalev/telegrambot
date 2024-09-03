@@ -1,0 +1,4 @@
+2024-08-24 23:21:46,536 INFO r.m.t.b.Application [main] Starting Application using Java 22.0.2 with PID 6838 (/home/alexeymoskalev/IdeaProjects/TelegramBot/target/classes started by alexeymoskalev in /home/alexeymoskalev/IdeaProjects/TelegramBot)
+2024-08-24 23:21:46,537 INFO r.m.t.b.Application [main] No active profile set, falling back to 1 default profile: "default"
+2024-08-24 23:21:47,559 INFO r.m.t.b.Application [main] Started Application in 1.264 seconds (process running for 2.311)
+2024-08-24 23:22:15,628 INFO r.m.t.b.s.TelegramBot [TelegramBot Telegram Executor] Отправлен ответ Алексей
